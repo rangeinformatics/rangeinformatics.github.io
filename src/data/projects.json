@@ -1,0 +1,94 @@
+[
+  {
+    "category": "Career Guidance & Recruitment",
+    "title": "MyRezz Career Platform",
+    "description": "A complete career guidance, assessments, and recruitment delivery platform for schools, colleges, and employers.",
+    "image": "/images/projects/career-platform.jpg",
+    "links": [
+      {
+        "label": "Open MyRezz",
+        "url": "https://app.myrezz.com"
+      },
+      {
+        "label": "Product Overview",
+        "url": "https://myrezz.com"
+      }
+    ]
+  },
+  {
+    "category": "Multi‑School LMS + ERP",
+    "title": "Ponderr School Platform",
+    "description": "A Microsoft‑aligned LMS + ERP for K12 institutions, built for certified educators with deep integration into Teams, SharePoint, and WordPress.",
+    "image": "/images/projects/multischool.jpg",
+    "links": [
+      {
+        "label": "Open Ponderr App",
+        "url": "https://app.ponderr.school"
+      },
+      {
+        "label": "Ponderr Website",
+        "url": "https://ponderr.school"
+      }
+    ]
+  },
+  {
+    "category": "Upskilling Academies",
+    "title": "Xplore Academies",
+    "description": "A platform for graduates, undergraduates, and corporate teams to learn coding, analytics, AI, and professional skills.",
+    "image": "/images/projects/xplore.jpg",
+    "links": [
+      {
+        "label": "Open Xplore",
+        "url": "https://app.xplore.com"
+      },
+      {
+        "label": "Xplore Website",
+        "url": "https://xplore.com"
+      }
+    ]
+  },
+  {
+    "category": "Designer Profiles",
+    "title": "Dreamzz Portfolio Hub",
+    "description": "A curated platform for designers to showcase their work, build profiles, and connect with opportunities.",
+    "image": "/images/projects/branding.jpg",
+    "links": [
+      {
+        "label": "Visit Dreamzz",
+        "url": "https://dreamzz.info"
+      }
+    ]
+  },
+  {
+    "category": "Brand & Web Ecosystem",
+    "title": "Range Informatics",
+    "description": "Websites, apps, portals, branding, and digital transformation for schools and SMBs.",
+    "image": "/images/projects/portfolio.jpg",
+    "links": [
+      {
+        "label": "Range Informatics",
+        "url": "https://rangeinformatics.com"
+      },
+      {
+        "label": "GitHub Org",
+        "url": "https://github.com/rangeinformatics"
+      }
+    ]
+  },
+  {
+    "category": "Portfolio & Identity",
+    "title": "Adil’s Portfolio",
+    "description": "A unified portfolio showcasing civil engineering, project management, EdTech, SaaS, and digital transformation work.",
+    "image": "/images/projects/portfolio.jpg",
+    "links": [
+      {
+        "label": "Portfolio Domain",
+        "url": "https://aadil.rangeinfo.pro"
+      },
+      {
+        "label": "GitHub Pages",
+        "url": "https://rangeinformatics.github.io"
+      }
+    ]
+  }
+]
