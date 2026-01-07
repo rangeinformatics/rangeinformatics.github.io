@@ -1,0 +1,64 @@
+[
+  {
+    "category": "Civil & project management",
+    "items": [
+      "AutoCAD",
+      "Primavera",
+      "Site coordination",
+      "As-builts & redlines",
+      "RA billing & submittals",
+      "Tender assistance"
+    ]
+  },
+  {
+    "category": "EdTech & Microsoft ecosystem",
+    "items": [
+      "Microsoft Teams for Education",
+      "SharePoint",
+      "WordPress + LMS",
+      "Office (Excel, PPT, Word)",
+      "Data analytics (intro)",
+      "AI fundamentals"
+    ]
+  },
+  {
+    "category": "Coding & labs",
+    "items": [
+      "code.org",
+      "MakeCode",
+      "Micro:bit",
+      "STEM activity design",
+      "Student mentoring"
+    ]
+  },
+  {
+    "category": "Business & partnerships",
+    "items": [
+      "PMI member",
+      "IIBA member",
+      "Certiport partner",
+      "Microsoft partner",
+      "Adobe partner"
+    ]
+  },
+  {
+    "category": "Design & communication",
+    "items": [
+      "Logos & branding",
+      "Flyers & banners",
+      "Web design",
+      "Presentations",
+      "Storytelling"
+    ]
+  },
+  {
+    "category": "Platforms & infra",
+    "items": [
+      "GitHub",
+      "Microsoft Founders Hub",
+      "Firebase",
+      "Hostinger Horizons",
+      "Web2 & Web3 domains"
+    ]
+  }
+]
